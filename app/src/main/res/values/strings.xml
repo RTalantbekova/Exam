@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuestionNineActivity</string>
+    <string name="btn_del">Delete</string>
+    <string name="btn_add">Add</string>
+    <string name="txt_name1">Button</string>
+    <string name="txt_name2">Button</string>
+</resources>
